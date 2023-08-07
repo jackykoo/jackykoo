@@ -3,7 +3,7 @@
 
 ## I'm a Full Stack Developer!
 - 💯 Favorite Stack: React with Next.js + Express + MongoDB.
-- 👨‍💻 I’m currently learning Rust and smart contract development in solana. 🦀
+- 👨‍💻 I’m currently learning smart contract development in solana. 🦀
 - 🔨 I love to learn through building.
 
 ### Languages and Tools:
